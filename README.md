@@ -1,7 +1,7 @@
 # ASE-Portfolio-Escano
 
 **Student:** Nathan Escano
-**Section:** COE231
+**Section:** COE231/COEP07
 **Course:** CPELX230-330, Term 2 2026-2027
 **School:** National University College of Engineering, Computer Engineering
 
